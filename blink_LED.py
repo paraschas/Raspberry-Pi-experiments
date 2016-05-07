@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# Dimitrios Paraschas (paraschas@gmail.com)
+
 
 import time
 import sys
