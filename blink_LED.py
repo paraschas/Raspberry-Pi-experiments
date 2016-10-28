@@ -40,7 +40,7 @@ def main():
 
     GPIO.setup(pin, GPIO.OUT)
 
-    for i in range(repetitions):
+    for _ in range(repetitions):
         send_high_low(pin)
 
     GPIO.cleanup()
